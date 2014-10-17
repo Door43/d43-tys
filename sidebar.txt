@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tys:home|Door43 (tys)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tys|d43-tys repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tys/archive/master.zip|d43-tys.zip]]
+
+**Recent Changes**
+{{changes>ns = tys}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tys|Ethnologue data]]
+
